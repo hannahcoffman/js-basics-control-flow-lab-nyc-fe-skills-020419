@@ -2,3 +2,6 @@
 function scuberGreetingForFeet(someValue) {
   if scuberGreetingForFeet => 
 }
+
+function ternaryCheckCity(destination)
+
