@@ -1,4 +1,4 @@
 // Write your code in this file!
 function scuberGreetingForFeet(someValue) {
-  consolelog if 
+  console.log if 
 }
